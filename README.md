@@ -1,6 +1,10 @@
 # Email:    <Realtek_HR@realtek-sg.com>
 # Location: Singapore Jurong East
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0a1633f-df06-4404-a6cf-a057aa13f75f" alt="Realtek SG logo image" width="600"/>
+</p>
+
 # Table of contents
 - [Software Engineer - WiFi/ Embedded System Development](#J01)
 - [Software Engineer - IoT Development](#J02)
