@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/e0a1633f-df06-4404-a6cf-a057aa13f75f" alt="Realtek SG logo image" width="600"/>
 </p>
 
-# Table of contents
+# Table of contents <a name="Back"></a>
 - [Software Engineer - WiFi/ Embedded System Development](#J01)
 - [Software Engineer - IoT Development](#J02)
 - [Application Engineer - IoT Development](#J03)
@@ -40,6 +40,7 @@
 - Good problem solver, ability to think out of the box.
 - Passion in programming is an advantage.
 - Entry levels are all welcome to apply.
+#### [Back to contents](#Back) 
 
 ## Software Engineer - IoT Development <a name="J02"></a>
 ### JOB HIGHLIGHTS
@@ -59,6 +60,7 @@
 - Good communication and team working skills.
 - Good problem-solving skills.
 - Entry levels are welcome to apply.
+#### [Back to contents](#Back) 
 
 ## Application Engineer - IoT Development <a name="J03"></a>
 ### JOB DESCRIPTION
@@ -77,6 +79,7 @@
 - Strong customer management and problem-solving skills.
 - Good communication and team working skills.
 - Singaporeans are welcome to apply.
+#### [Back to contents](#Back) 
 
 ## Software Engineer - IoT Development, Opensource <a name="J04"></a>
 ### Short description
@@ -102,6 +105,7 @@
 - Willingness to learn new technologies and follow the latest software trend.
 - Good communication and teamwork skills.
 - Entry levels are welcome to apply.
+#### [Back to contents](#Back) 
 
 ## Test Engineer <a name="J05"></a>
 ### THE OPPORTUNITY
@@ -134,6 +138,7 @@
 - Analytical mind to correctly judge product behaviour.
 - Excellent time-management skills and commitment to meet deadlines.
 - Good communication skills and a team player.
+#### [Back to contents](#Back) 
 
 ## Test Automation Engineer <a name="J06"></a>
 ### JOB Highlights
@@ -152,6 +157,7 @@
 - Strong python scripting skill and C++ programming background.
 - Good written and verbal communication skills in Mandarin would be advantage to assist and communicate with Mandarin speaking associates/clients.
 - Able to work well both independently as well as in a team.
+#### [Back to contents](#Back) 
 
 ## Design Verification Engineer (SOC/IP) <a name="J07"></a>
 ### JOB DESCRIPTION
@@ -170,6 +176,7 @@ The ideal individual must have proven ability to achieve results in a fast movin
 - Strong hardware functional verification language and Object-oriental language development skill. Prefer with System Verilog/ UVM experience.
 - Familiar with ASIC verification methodology, tools, and development flow.
 - Working experience or familiar with Ethernet L2/L3 switch/router, SOC, AMBA bus, high-speed IO (USB-2/3/4, PCIe gen2/3/4/5, MIPI CSI-2/DSI-2 and SATA), Flash controller, or CPU peripherals, AMBA bus and SOC system controller.
+#### [Back to contents](#Back) 
 
 ## Senior Design Verification Engineer (SOC/IP) <a name="J08"></a>
 ### JOB DESCRIPTION
@@ -190,6 +197,7 @@ The ideal individual must have proven ability to achieve results in a fast movin
 - Familiar with ASIC verification methodology, tools, and development flow.
 - Preferred Working experience: Ethernet L2/L3 switch/router, SOC, AMBA bus, high-speed IO (USB-2/3/4, PCIe gen2/3/4/5, MIPI CSI-2/DSI-2 and SATA), Flash controller, or CPU peripherals, AMBA bus and SOC system controller.
 - Additional Working experience as plus: Automotive or IOT or Video.
+#### [Back to contents](#Back) 
 
 ## Senior GPON Design Verification Engineer <a name="J09"></a>
 ### JOB DESCRIPTION
@@ -207,6 +215,7 @@ The ideal individual must have proven ability to achieve results in a fast movin
 - Experience verifying digital systems using standard IP components/interconnects.
 - Experience creating and using verification components and environments in standard verification methodology.
 - Strong problem-solving skills and ability to diagnose and resolve GPON network-related issues.
+#### [Back to contents](#Back) 
 
 ## Digital IC Verification Engineer <a name="J10"></a>
 ### JOB DESCRIPTION
@@ -224,6 +233,7 @@ The ideal individual must have proven ability to achieve results in a fast movin
 - Strong hardware functional verification language and Object-oriental language development skill. Prefer with System Verilog/ UVM experience.
 - Familiar with ASIC verification methodology, EDA tools and development flow.
 - Working experience or familiar with Ethernet L2/L3 switch/router, high-speed IO (USB-2/3/4, PCIe gen2/3/4/5, MIPI CSI-2/DSI-2 and SATA), Flash controller, or CPU peripherals, AMBA bus and SoC system controller.
+#### [Back to contents](#Back) 
 
 ## IC Test Development Engineer <a name="J11"></a>
 ### THE OPPORTUNITY
@@ -257,6 +267,7 @@ The ideal individual must have proven ability to achieve results in a fast movin
 - Good written and verbal communication skills in Mandarin would be an advantage to assist and communicate with Mandarin speaking associates/clients
 - Able to work well both independently as well as in a team
 - Singaporeans are welcome to apply
+#### [Back to contents](#Back) 
 
 ## Digital IC Design Engineer (SoC Integration) <a name="J12"></a>
 ### JOB DESCRIPTION
@@ -274,6 +285,7 @@ The ideal individual must have proven ability to achieve results in a fast movin
 - Good communication and interpersonal skills
 - Strong analytical and problem-solving skills
 - Knowledge on mixed-signal design would be an advantage.
+#### [Back to contents](#Back) 
 
 ## Digital IC Design Engineer (SoC Timing) <a name="J13"></a>
 ### JOB DESCRIPTION
@@ -291,6 +303,7 @@ The ideal individual must have proven ability to achieve results in a fast movin
 - Good understanding of DFT and Power structure.
 - Familiar with UNIX/ Linux environment and scripting.
 - Good communication and interpersonal skills.
+#### [Back to contents](#Back) 
 
 ## Digital IC Design Engineer (SoC Power) <a name="J14"></a>
 ### JOB DESCRIPTION
@@ -307,6 +320,7 @@ The ideal individual must have proven ability to achieve results in a fast movin
 - Familiar with UNIX/ Linux environment and scripting
 - Good communication and interpersonal skills
 - Strong analytical and problem-solving skills
+#### [Back to contents](#Back) 
 
 ## Digital IC Design Engineer (IP Development) <a name="J15"></a>
 ### JOB DESCRIPTION
@@ -324,6 +338,7 @@ The ideal individual must have proven ability to achieve results in a fast movin
 - Strong analytical and problem-solving skills.
 - Experience on communication IP development would be an advantage.
 - Experience on video IP development would be an advantage.
+#### [Back to contents](#Back) 
 
 ## System Architecture Engineer (SoC Architect) <a name="J16"></a>
 ### JOB DESCRIPTION
@@ -342,6 +357,7 @@ The ideal individual must have proven ability to achieve results in a fast movin
 - Knowledge in WIFI/Bluetooth physical layer or MAC operation is an advantage.
 - Good communication and interpersonal skills.
 - Strong analytical and problem-solving skills.
+#### [Back to contents](#Back) 
 
 ## System Architecture Engineer（Video System）<a name="J17"></a>
 ### JOB DESCRIPTION
@@ -359,6 +375,7 @@ The ideal individual must have proven ability to achieve results in a fast movin
 - Knowledge in video/image pre and post processing is an advantage.
 - Good communication and interpersonal skills.
 - Strong analytical and problem-solving skills.
+#### [Back to contents](#Back) 
 
 ## System Architecture Engineer (Ethernet Switch) <a name="J18"></a>
 ### JOB DESCRIPTION
@@ -375,3 +392,4 @@ The ideal individual must have proven ability to achieve results in a fast movin
 - Familiar with interface peripheral, such as Ethernet/ PCIe/ LIN/ CAN/ FlexRay/ SDHC/ I2S/ SPI/ I2C/ UART/ ADC.
 - Familiar with C, Python, Verilog/ VHDL, systemC, System Verilog.
 - Familiar with hardware testing and debugging, such as oscilloscope, logic analyser, IXIA, etc.
+#### [Back to contents](#Back) 
