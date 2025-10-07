@@ -6,7 +6,7 @@
 # Location: Singapore Jurong East
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e0a1633f-df06-4404-a6cf-a057aa13f75f" alt="Realtek SG logo image" width="600"/>
+  <img src="https://github.com/user-attachments/assets/5988a380-8bfc-45f5-9640-8248c9bdad24" alt="Realtek SG logo image" width="600"/>
 </p>
 
 # Table of contents <a name="Back"></a>
