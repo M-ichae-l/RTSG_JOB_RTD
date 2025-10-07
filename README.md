@@ -1,7 +1,7 @@
 
 # [homepage](https://m-ichae-l.github.io/RTSG_JOB_RTD/)
 
-# Email:    <Realtek_HR@realtek-sg.com>
+# Email:    <careerrtsgsd3@gmail.com>
 
 # Location: Singapore Jurong East
 
