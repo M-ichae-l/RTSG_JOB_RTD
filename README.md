@@ -10,84 +10,15 @@
 </p>
 
 # Table of contents <a name="Back"></a>
-- [Software Engineer - WiFi/ Embedded System Development](#J01)
-- [Software Engineer - IoT Development](#J02)
-- [Application Engineer - IoT Development](#J03)
-- [Software Engineer - IoT Development, Opensource](#J04)
+- [Software Engineer - IoT Development, Opensource](#J01)
+- [Software Engineer - WiFi/ Embedded System Development](#J02)
+- [Software Engineer - IoT Development](#J03)
+- [Application Engineer - IoT Development](#J04)
 - [Test Engineer](#J05)
 - [Test Automation Engineer](#J06)
 
 
-## Software Engineer - WiFi/ Embedded System Development <a name="J01"></a>
-
-### JOB DESCRIPTION
-- Wireless AP software development and firmware development.
-- Network communication protocol development.
-- Embedded system development.
-- Execution of pre-test for IoT/ Wi-Fi router related certification.
-
-### JOB REQUIREMENTS
-- Bachelor’s Degree or above in Computer Science, Computer Engineering, Electronic, Telecommunication or Networking Engineering.
-- Familiar with C/C++ and Linux system.
-- Familiar with networking and embedded system development.
-- WiFi development experience is an advantage.
-- Good communication and team working skills.
-- Good problem solver, ability to think out of the box.
-- Passion in programming is an advantage.
-- Entry levels are all welcome to apply.
-
-#### [Back to contents](#Back) 
-
-
-## Software Engineer - IoT Development <a name="J02"></a>
-
-### JOB HIGHLIGHTS
-- Cutting Edge Internet-of-Things and AI Technologies.
-- Career growth and development opportunities.
-- Work Life Balance.
-
-### JOB DESCRIPTION
-- Embedded system software development.
-- IoT related protocol and software development.
-- Peripheral device driver and Wi-Fi related software development.
-- Customer issues support.
-
-### JOB REQUIREMENTS 
-- Bachelor’s degree or above in Computer Engineering, Electronics or Networking engineering
-- Familiar with C/C++ language.
-- Familiar with embedded system and experience in driver-related development is an advantage.
-- Familiar with networking, Wi-Fi/ BLE-related, Peripheral experience is an advantage
-- Good communication and team working skills.
-- Good problem-solving skills.
-- Entry levels are welcome to apply.
-
-#### [Back to contents](#Back) 
-
-
-## Application Engineer - IoT Development <a name="J03"></a>
-
-### JOB DESCRIPTION
-- Understanding of the customer requirements and developing technical solutions for customers.
-- Strong collaboration with several stockholders including customer, sales and marketing, RD team. 
-- Support customers during all development cycle from design specification until mass production.
-- Exposure to schematics and PCB layout design review.
-- Direct contact with customers implies excellent communication skills. 
-
-### JOB REQUIREMENTS
-- Bachelor’s degree or above in Electronic Engineering or related majors.
-- Min 3-5 years of relevant work experience in semiconductor.
-- Strong experience in embedded system and wireless SOC (BLE, Wi-Fi, Zigbee, IOT etc.) 
-- OrCAD, Allegro, PADs and related hardware tools hands-on experience.
-- Proficiency in MCU or DSP/ FPGA/ RF system is an advantage.
-- Wi-Fi/BT wireless connectivity test or other wireless-related experience is an advantage.
-- Strong customer management and problem-solving skills.
-- Good communication and team working skills.
-- Singaporeans are welcome to apply.
-
-#### [Back to contents](#Back) 
-
-
-## Software Engineer - IoT Development, Opensource <a name="J04"></a>
+## Software Engineer - IoT Development, Opensource <a name="J01"></a>
 
 ### Short description
 - R&D software engineer in a role of developing embedded system with AIoT/IoT at open-source platform. Also involve of maker community and ecosystem build up.
@@ -115,6 +46,75 @@
 - Willingness to learn new technologies and follow the latest software trend.
 - Good communication and teamwork skills.
 - Entry levels are welcome to apply.
+
+#### [Back to contents](#Back) 
+
+
+## Software Engineer - WiFi/ Embedded System Development <a name="J02"></a>
+
+### JOB DESCRIPTION
+- Wireless AP software development and firmware development.
+- Network communication protocol development.
+- Embedded system development.
+- Execution of pre-test for IoT/ Wi-Fi router related certification.
+
+### JOB REQUIREMENTS
+- Bachelor’s Degree or above in Computer Science, Computer Engineering, Electronic, Telecommunication or Networking Engineering.
+- Familiar with C/C++ and Linux system.
+- Familiar with networking and embedded system development.
+- WiFi development experience is an advantage.
+- Good communication and team working skills.
+- Good problem solver, ability to think out of the box.
+- Passion in programming is an advantage.
+- Entry levels are all welcome to apply.
+
+#### [Back to contents](#Back) 
+
+
+## Software Engineer - IoT Development <a name="J03"></a>
+
+### JOB HIGHLIGHTS
+- Cutting Edge Internet-of-Things and AI Technologies.
+- Career growth and development opportunities.
+- Work Life Balance.
+
+### JOB DESCRIPTION
+- Embedded system software development.
+- IoT related protocol and software development.
+- Peripheral device driver and Wi-Fi related software development.
+- Customer issues support.
+
+### JOB REQUIREMENTS 
+- Bachelor’s degree or above in Computer Engineering, Electronics or Networking engineering
+- Familiar with C/C++ language.
+- Familiar with embedded system and experience in driver-related development is an advantage.
+- Familiar with networking, Wi-Fi/ BLE-related, Peripheral experience is an advantage
+- Good communication and team working skills.
+- Good problem-solving skills.
+- Entry levels are welcome to apply.
+
+#### [Back to contents](#Back) 
+
+
+## Application Engineer - IoT Development <a name="J04"></a>
+
+### JOB DESCRIPTION
+- Understanding of the customer requirements and developing technical solutions for customers.
+- Strong collaboration with several stockholders including customer, sales and marketing, RD team. 
+- Support customers during all development cycle from design specification until mass production.
+- Exposure to schematics and PCB layout design review.
+- Direct contact with customers implies excellent communication skills. 
+
+### JOB REQUIREMENTS
+- Bachelor’s degree or above in Electronic Engineering or related majors.
+- Min 3-5 years of relevant work experience in semiconductor.
+- Strong experience in embedded system and wireless SOC (BLE, Wi-Fi, Zigbee, IOT etc.) 
+- OrCAD, Allegro, PADs and related hardware tools hands-on experience.
+- Proficiency in MCU or DSP/ FPGA/ RF system is an advantage.
+- Wi-Fi/BT wireless connectivity test or other wireless-related experience is an advantage.
+- Strong customer management and problem-solving skills.
+- Good communication and team working skills.
+- Singaporeans are welcome to apply.
 
 #### [Back to contents](#Back) 
 
