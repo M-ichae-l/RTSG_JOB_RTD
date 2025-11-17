@@ -1,7 +1,7 @@
 
 # [homepage](https://m-ichae-l.github.io/RTSG_JOB_RTD/)
 
-# Email:    <careerrtsgsd3@gmail.com>
+# Email:    <Not in use @gmail.com>
 
 # Location: Singapore Jurong East
 
